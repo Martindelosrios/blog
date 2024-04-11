@@ -1,8 +1,6 @@
 # 😅 About Me
 
-## Fritz Lin
-
-<img alt="avatar" src="avatar.jpg" width="240">
+## Martin
 
 > Life is short, I use JS
 
@@ -15,9 +13,6 @@
 
 <style>.v-middle *{vertical-align:middle}.v-middle .img-a{font-size:0}</style>
 <p class="v-middle">
-[@fritx](https://github.com/fritx)&nbsp;&nbsp;<a class="img-a" href="https://github.com/fritx">![](https://img.shields.io/github/stars/fritx?style=social)</a>
+[@martin](https://github.com/martindelosrios)&nbsp;&nbsp
 </p>
 
-## Blog powered by
-
-An Entire Static Blog Framework: [silent](projects/silent_2.0/)
